@@ -1,20 +1,38 @@
 [
- 
- 
-
-    {
-  "numero": 1,
-  "proceso": "https:\/\/www.minedu.gob.pe\/transparencia\/2013\/pdf\/2025\/ue024\/octubre\/ver-requerimiento.pdf",
-  "cronograma": "https:\/\/minedu.gob.pe\/transparencia\/2013\/pdf\/2025\/ue024\/octubre\/cronograma.pdf",
-  "proceso_inicial": "",
-  "proceso_modificado": "",
-  "codigo": " 0035-2025-MINEDU\/U.E. 024",
-  "convocatoria": "PRACTICANTE PREPROFESIONAL PARA LA SECRETARÍA GENERAL - CÓDIGO AIRHSP 000167",
-    "requisitos": "https://cdn.www.gob.pe/uploads/document/file/8821408/7284026-proceso-n-0035-2025-minedu-u-e-024%282%29.pdf?v=1760410651",
-     "resultados": ""
-
-    
   
-
- }
+  {
+    "numero": 1,
+    "proceso": {
+      "url": "https:\/\/www.minedu.gob.pe\/transparencia\/2013\/pdf\/2025\/ue024\/octubre\/ver-requerimiento.pdf",
+      "label": "VER REQUERIMIENTO"
+    },
+    "cronograma": {
+      "url": "https:\/\/minedu.gob.pe\/transparencia\/2013\/pdf\/2025\/ue024\/octubre\/cronograma.pdf",
+      "label": "VER CRONOGRAMA"
+    },
+    "codigo": "0035-2025-MINEDU\/U.E. 024",
+    "convocatoria": "PRACTICANTE PREPROFESIONAL PARA LA SECRETARÍA GENERAL - CÓDIGO AIRHSP 000167",
+    "requisitos": [
+      {
+        "url": "https://cdn.www.gob.pe/uploads/document/file/8821408/7284026-proceso-n-0035-2025-minedu-u-e-024%282%29.pdf?v=1760410651",
+        "label": "RESULTADO DE EVALUACIÓN DE REQUISITOS"
+      },
+      {
+        "url": "pdf/2025/ue024/noviembre/RESULTADOS-EVALUACIÓN-REQUISITOS.pdf",
+        "label": "COMUNICADO: RESULTADOS DE EVALUACIÓN DE REQUISITOS"
+      }
+    ],
+    "conocimientos": {
+      "url": "pdf/2025/ue024/noviembre/resultados-de-eval-psicologica-proceso-0035-2025-minedu-ue-024.pdf",
+      "label": "RESULTADOS DE EVALUACIÓN PSICOLOGICA"
+    },
+    "entrevista": {
+      "url": "",
+      "label": ""
+    },
+    "resultados": {
+      "url": "",
+      "label": ""
+    }
+  } 
 ]
